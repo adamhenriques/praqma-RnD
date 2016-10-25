@@ -155,8 +155,6 @@ Though we might assume we trust the Docker tools, but content can be changed aft
 ### Docker Bench for Security
 
 If you want to evaluate security, not only the specific image, you should definitely look at the [Docker Bench for Security](https://github.com/docker/docker-bench-security#running-docker-bench-for-security) and the related Docker blog post about [understanding Docker security and some best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/).
-adfadfa adfa asdf as fasf
-
 
 ### Security references
 
